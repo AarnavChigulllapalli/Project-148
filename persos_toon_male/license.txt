@@ -1,0 +1,11 @@
+Model Information:
+* title:	Persos Toon Male
+* source:	https://sketchfab.com/3d-models/persos-toon-male-8e9ec04eb03a471ba4c4091957185509
+* author:	edouard77 (https://sketchfab.com/edouard77)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Persos Toon Male" (https://sketchfab.com/3d-models/persos-toon-male-8e9ec04eb03a471ba4c4091957185509) by edouard77 (https://sketchfab.com/edouard77) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
